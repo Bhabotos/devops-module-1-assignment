@@ -502,6 +502,7 @@ devops-module-1-assignment/
 ├── docs/
 │   └── assignment-answers.md
 └── screenshots/
+```
 ### Step 1: Create Python Virtual Environment
 
 A Python virtual environment was created using:
@@ -594,6 +595,7 @@ The Flask application was running locally on:
 
 ```text
 http://localhost:5000
+```
 
 ### Step 1: Verify ngrok
 
